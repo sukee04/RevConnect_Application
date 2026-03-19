@@ -40,7 +40,6 @@ Database
 * Angular
 * TypeScript
 * RxJS
-* Tailwind CSS / CSS
 
 ### 🔹 Backend
 
