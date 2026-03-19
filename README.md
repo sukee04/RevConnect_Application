@@ -212,19 +212,3 @@ Frontend receives instantly
 ## 👨‍💻 Author
 
 **Sudheer**
-
----
-
-## ⭐ Notes
-
-* Designed with scalability and modularity in mind
-* Follows best practices in full-stack development
-* Suitable for real-world social media use cases
-
----
-
-## 📢 Interview Summary
-
-> RevConnect is a full-stack social media platform built with Angular and Spring Boot that enables users, creators, and businesses to connect through posts, stories, and collaborations, with real-time notifications and secure JWT-based authentication.
-
----
